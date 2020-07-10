@@ -1,0 +1,1 @@
+"use strict";var hamburger=document.querySelector(".front__hamburger"),navLinks=document.querySelector(".navigation__menu");hamburger.addEventListener("click",function(){navLinks.classList.toggle("open")}),navLinks.addEventListener("click",function(){navLinks.classList.toggle("open")});
